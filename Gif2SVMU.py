@@ -2,6 +2,7 @@
 # Gif2SVMU
 # By VincentNL 20/02/2023
 #
+# ShinobiVMU (.svmu) is a custom VMU animation / gfx data format I've made for RAH, compatible with original VMU gfx data.
 # Use this script to convert animated gifs to ShinobiVMU animation format/script.
 #
 # Full credit to skewbmaster for Build VMU GFX code part which were repurposed for this script.
